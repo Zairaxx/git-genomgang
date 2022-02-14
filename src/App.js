@@ -12,7 +12,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn Git
+          Learn Git from Mosh
         </a>
       </header>
     </div>
