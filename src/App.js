@@ -14,6 +14,7 @@ function App() {
         >
           Learn Git from Mosh
         </a>
+        <p>Git är JÄTTEROLIGT!!!!!</p>
         <p>Git är tråkigt....</p>
       </header>
     </div>
